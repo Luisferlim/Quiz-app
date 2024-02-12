@@ -10,8 +10,7 @@ Este é um aplicativo de **quiz** simples desenvolvido em **Flutter**. Ele permi
 
 ## Gravação de tela (Google Pixel 5 Android 12)
 
-![Tela Inicial](screenshots/flutter_appgif.gif)
-
+![Tela Inicial]<img src="screenshots/flutter_appgif.gif" alt="Tela Inicial" width="300" height="auto">
 ## Como Executar
 
 1. Certifique-se de ter o **Flutter** instalado em sua máquina.
